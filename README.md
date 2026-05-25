@@ -1,5 +1,5 @@
 🇬🇧
-Details:
+# Details:
 - Continuation of the Astro-Adventure-3D-Unity-Developer-Module-33 project;
 - Added Post Processing installation to the main scene;
 - Added a vignette, working in Post Processing;
@@ -7,7 +7,7 @@ Details:
 - Enabled a Screenshake on the camera when the hero takes damage.
 
 🇧🇷
-Detalhes:
+# Detalhes:
 - Continuidade do projeto Astro-Adventure-3D-Unity-Developer-Module-33;
 - Adicionada a instalação do Post Processing na cena principal;
 - Acrescentado um vignette, funcionando no Post Processing;
